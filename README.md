@@ -1,2 +1,2 @@
-# Machine-Learning
-Some notes on machine learning
+# NLP
+Some notes on NLP
